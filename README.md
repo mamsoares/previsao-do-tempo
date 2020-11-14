@@ -68,7 +68,7 @@ O comando acima vai instalar todas as dependencias do projeto
 ```
 $ yarn start
 ```
-O comando acima vai iniciar a aplicação na porta: **4006**
+O comando acima vai iniciar a aplicação na porta: **4004**
 
 ### Publicando a aplicação em produção
 
